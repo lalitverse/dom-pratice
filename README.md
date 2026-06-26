@@ -113,9 +113,6 @@ After completing this project, you will be able to:
 
 **Lalit Hirvey**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-profile
-
 ---
 
 ⭐ If you found this repository helpful, consider giving it a **Star**.
